@@ -1,1 +1,0 @@
-print("Ovo je slucajno dodana skripta! ")
